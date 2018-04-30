@@ -1,0 +1,4 @@
+#Mon Mar 26 14:45:00 ADT 2018
+base.0=C\:\\Users\\beezw\\AndroidStudioProjects\\CatChat\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\77
+path.0=classes.dex
+renamed.0=classes.dex

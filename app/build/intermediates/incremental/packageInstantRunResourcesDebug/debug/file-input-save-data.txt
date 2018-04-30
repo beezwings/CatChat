@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Mar 22 13:14:37 ADT 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\beezw\\AndroidStudioProjects\\CatChat\\app\\build\\intermediates\\assets\\debug
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1
